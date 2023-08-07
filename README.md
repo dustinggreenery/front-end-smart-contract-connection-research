@@ -1,4 +1,4 @@
-# Mattchain
+# Front End Smart Contract Connection Research
 
 ![Contributors](https://img.shields.io/github/contributors/dustinggreenery/MattChain)
 ![Forks](https://img.shields.io/github/forks/dustinggreenery/MattChain)
